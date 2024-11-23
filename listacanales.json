@@ -6,33 +6,9 @@
     "category": "6"
   },
   {
-    "title": "La1",
-    "videoUrl": "acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0/",
-    "cardImageUrl": "movistar",
-    "category": "5"
-  },
-  {
-    "title": "La1 UHD",
-    "videoUrl": "acestream://4a714c436cb67d53cf197f9038239fddab2d8b20/",
-    "cardImageUrl": "movistar",
-    "category": "5"
-  },
-  {
     "title": "tdp 1080",
     "videoUrl": "acestream://61b9b271c16f970aab43cb753c5f8be181dceece/",
     "cardImageUrl": "movistar",
-    "category": "5"
-  },
-  {
-    "title": "EuroSport 1 1080",
-    "videoUrl": "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952/",
-    "cardImageUrl": "eurosport",
-    "category": "5"
-  },
-  {
-    "title": "EuroSport 2 1080",
-    "videoUrl": "acestream://c373da9e901d414b7384e671112e64d5a2310c29/",
-    "cardImageUrl": "eurosport",
     "category": "5"
   },
   {
