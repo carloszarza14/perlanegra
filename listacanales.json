@@ -30,12 +30,6 @@
     "category": "4"
   },
   {
-    "title": "M. LaLiga UHD",
-    "videoUrl": "",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
     "title": "M. LaLiga 1080P",
     "videoUrl": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947/",
     "cardImageUrl": "movistar",
@@ -84,36 +78,6 @@
     "category": "0"
   },
   {
-    "title": "M. LaLiga 4 1080",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
-    "title": "M. LaLiga 5 1080",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
-    "title": "M. LaLiga 6 1080",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
-    "title": "La Liga BAR 1080",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
-    "title": "La Liga BAR 1080",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
     "title": "DAZN LaLiga 1080 MultiAudio",
     "videoUrl": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05/",
     "cardImageUrl": "dazn",
@@ -122,12 +86,6 @@
   {
     "title": "DAZN LaLiga 1080 MultiAudio",
     "videoUrl": "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618/",
-    "cardImageUrl": "dazn",
-    "category": "0"
-  },
-  {
-    "title": "DAZN LaLiga 1080 MultiAudio",
-    "videoUrl": "acestream:///",
     "cardImageUrl": "dazn",
     "category": "0"
   },
@@ -150,30 +108,6 @@
     "category": "0"
   },
   {
-    "title": "DAZN LaLiga 3 1080 MultiAudio",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "dazn",
-    "category": "0"
-  },
-  {
-    "title": "DAZN LaLiga 4 1080 MultiAudio",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "dazn",
-    "category": "0"
-  },
-  {
-    "title": "DAZN LaLiga 5 1080 MultiAudio",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "dazn",
-    "category": "0"
-  },
-  {
-    "title": "DAZN LaLiga 6 1080 MultiAudio",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "dazn",
-    "category": "0"
-  },
-  {
     "title": "LaLiga Smartbank 1080",
     "videoUrl": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0/",
     "cardImageUrl": "movistar",
@@ -192,56 +126,8 @@
     "category": "0"
   },
   {
-    "title": "LaLiga Smartbank 2 720",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
     "title": "LaLiga Smartbank 3",
     "videoUrl": "acestream://778d2f60bb7207addedcca0b9aed98f41529724e/",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
-    "title": "LaLiga Smartbank 4",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
-    "title": "LaLiga Smartbank 5",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
-    "title": "LaLiga Smartbank 6",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
-    "title": "LaLiga Smartbank 7",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
-    "title": "LaLiga Smartbank 8",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
-    "title": "LaLiga Smartbank 9",
-    "videoUrl": "acestream:///",
-    "cardImageUrl": "movistar",
-    "category": "0"
-  },
-  {
-    "title": "LaLiga Smartbank 10",
-    "videoUrl": "acestream:///",
     "cardImageUrl": "movistar",
     "category": "0"
   },
